@@ -17,6 +17,7 @@ export const CardCountrie: React.FC<ICardCountrieProps> = ({
         className={styles.containerImage}
         width={300}
         height={200}
+        loading='eager'
         alt="image cover countrie"
         src={countrieData.flags.png}
       />

@@ -16,6 +16,7 @@ export const Header: React.FC = () => {
               className={styles.containerImage}
               width={16}
               height={16}
+              loading='eager'
               alt="Dark theme icon"
               src="/assets/img/moon-light-icon.png"
             />
