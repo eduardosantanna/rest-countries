@@ -1,4 +1,4 @@
-# Frontend Mentor - Aplicativo gerador de conselhos
+# Frontend Mentor - REST Countries API
 
 Essa é uma solução para o [desafio do aplicativo REST Countries API with color theme switcher que está disponível no site Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db).
 
